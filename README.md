@@ -2,7 +2,7 @@
 <h3 align="center">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [Selenium](https://github.com/kkmahajan/Selenium-Testing)
+- 🔭 I’m currently working on [API Testing with Postman & Rest Assured with Cucumber BDD](https://github.com/kkmahajan/Selenium-Testing)
 
 - 🌱 I’m currently learning **Selenium for effective and clean UI Automation**
 
