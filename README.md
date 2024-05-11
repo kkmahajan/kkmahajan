@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Mahajan</h1>
+<h3 align="center">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
 Seasoned Test Analyst with 4+ years of experience designing and implementing quality assurance tests. Evaluated test objectives to develop and implement test procedures optimized for relevant results. Reported on test results and suggested interpretations relevant to product applications and further test development. Oriented towards streamlining testing and reporting processes to lower costs and optimize production efficiency. Currently working as a lead for a team of seven members 
 
 ## 🛠️ Technologies & Tools
@@ -13,7 +14,7 @@ Seasoned Test Analyst with 4+ years of experience designing and implementing qua
 - **IDEs:** IntelliJ, PyCharm, Eclipse
 - **Operating Systems:** Windows, Linux, Mac
 
-<h3 align="center">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on [API Testing with Postman & Rest Assured with Cucumber BDD](https://github.com/kkmahajan/Selenium-Testing)
