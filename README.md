@@ -1,6 +1,6 @@
-![logo](https://github.com/kkmahajan/kkmahajan/blob/main/QA_Banner.png))
+![logo](https://github.com/kkmahajan/kkmahajan/blob/main/QA_Banner.png)
 
-<h3 align="center">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
+<h3 align="left">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
 
 Seasoned Test Analyst with experience in designing and implementing quality assurance tests. Evaluated test objectives to develop and implement test procedures optimized for relevant results. Reported on test results and suggested interpretations relevant to product applications and further test development. Oriented towards streamlining testing and reporting processes to lower costs and optimize production efficiency. Currently working as a lead for a team of seven members 
 
