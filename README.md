@@ -1,4 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Mahajan</h1>
+Seasoned Test Analyst with 4+ years of experience designing and implementing quality assurance tests. Evaluated test objectives to develop and implement test procedures optimized for relevant results. Reported on test results and suggested interpretations relevant to product applications and further test development. Oriented towards streamlining testing and reporting processes to lower costs and optimize production efficiency. Currently working as a lead for a team of seven members 
+
+## 🛠️ Technologies & Tools
+
+- **Software Testing :** Web Application UI/Functional/Manual Testing, Mobile Application Testing, Tablet Application Testing
+- **Automation Testing :** Selenium with Java, Cucumber, TestNG, JUnit, Extent-reports.
+- **API Testing:** Postman (Manual), REST Assured(Automation), 
+- **Languages:** Java (Moderate), Python (Learning)
+- **CI/CD:** Jenkins, GitHub
+- **Version Control:** Git, GitHub
+- **Databases:** MySQL, NoSQL - Marklogic Database
+- **IDEs:** IntelliJ, PyCharm, Eclipse
+- **Operating Systems:** Windows, Linux, Mac
+
 <h3 align="center">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
