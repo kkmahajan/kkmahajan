@@ -1,3 +1,5 @@
+![logo](https://github.com/kkmahajan/kkmahajan/blob/main/QA_Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Kaustubh Mahajan</h1>
 <h3 align="center">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
 
