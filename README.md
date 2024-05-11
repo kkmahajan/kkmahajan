@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Mahajan</h1>
 <h3 align="center">4+ years of experience as a software tester with key skills like Functional Testing, Automation Testing using Selenium (TDD/BDD/Java), API Testing using Postman, and API Automation Testing using Rest Assured (TDD/BDD/Java), CICD, GitHub, SQL.</h3>
-<img align="right" alt="coding" width=400 src ="![Uploading image_processing20210511-12175-1v0etim.gif…]()
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on [Selenium](https://github.com/kkmahajan/Selenium-Testing)
 
