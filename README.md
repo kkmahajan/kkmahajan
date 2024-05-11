@@ -1,4 +1,4 @@
-![logo](https://github.com/kkmahajan/kkmahajan/blob/main/QA_Banner.png)
+![logo](https://github.com/kkmahajan/kkmahajan/blob/main/QA_Banner1.png)
 
 <h3 align="left">Test Analyst | Software Testing | Manual Testing | API Testing | QA | Rest Assured | Selenium | Postman | API Automation | CICD | Jenkins</h3>
 
