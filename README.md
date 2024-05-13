@@ -13,7 +13,8 @@ Seasoned Test Analyst with 4+ experience in designing and implementing quality a
 - **CI/CD:** Jenkins, GitHub
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL, NoSQL - Marklogic Database
-- **IDEs:** IntelliJ, PyCharm, Eclipse
+- **IDEs for Java:** IntelliJ, Eclipse, 
+- **IDEs for Python:** PyCharm, Jupyter Notebook, Spyder
 - **Operating Systems:** Windows, Linux, Mac
 
 
