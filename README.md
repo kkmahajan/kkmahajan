@@ -4,7 +4,7 @@
 
 Seasoned Test Analyst with 4+ experience in designing and implementing quality assurance tests. Evaluated test objectives to develop and implement test procedures optimized for relevant results. Reported on test results and suggested interpretations relevant to product applications and further test development. Oriented towards streamlining testing and reporting processes to lower costs and optimize production efficiency. Currently working as a lead for a team of seven members 
 
-Resume Link - https://github.com/kkmahajan/kkmahajan/blob/main/Kaustubh_Mahajan_Testing_4%2B.pdf
+Resume Link - https://github.com/kkmahajan/kkmahajan/blob/main/Kaustubh_Mahajan_Testing.pdf
 
 ## 🛠️ Technologies & Tools
 
