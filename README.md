@@ -1,6 +1,6 @@
 ![logo](https://github.com/kkmahajan/kkmahajan/blob/main/QA_Banner1.png)
 
-<h3 align="left">Lead Test Analyst | Software Testing | Manual Testing | API Testing | EDI Testing | QA | Rest Assured | Selenium | Postman | API Automation | CICD | Jenkins | Mobile Application Testing | Tablet Application Testing |</h3>
+<h3 align="left">Quality Engineering Analyst | Software Testing | Manual Testing | API Testing | EDI Testing | QA | Rest Assured | Selenium | Postman | API Automation | CICD | Jenkins | Mobile Application Testing | Tablet Application Testing |</h3>
 
 Seasoned Test Analyst with 4+ experience in designing and implementing quality assurance tests. Evaluated test objectives to develop and implement test procedures optimized for relevant results. Reported on test results and suggested interpretations relevant to product applications and further test development. Oriented towards streamlining testing and reporting processes to lower costs and optimize production efficiency. Currently working as a lead for a team of seven members 
 
