@@ -22,7 +22,7 @@ Resume Link - https://github.com/kkmahajan/kkmahajan/blob/main/Kaustubh_Mahajan_
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [API Testing with Postman & Rest Assured with Cucumber BDD](https://github.com/kkmahajan/Selenium-Testing)
+- 🔭 I’m currently working on **Karate Framework Using Maven for API Testing**
 
 - 🌱 I’m currently learning **Selenium for effective and clean UI Automation**
 
